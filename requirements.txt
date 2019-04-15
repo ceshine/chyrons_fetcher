@@ -1,0 +1,3 @@
+tenacity
+beautifulsoup4
+requests
